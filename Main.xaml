@@ -21,6 +21,7 @@
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <Sequence DisplayName="Invoice Data Extraction - PDF">
+  test
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="pdfSourceDirectory" />
       <Variable x:TypeArguments="x:String" Name="csvOutputPath" />
